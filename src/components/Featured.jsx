@@ -6,7 +6,7 @@ const Featured = () => {
     console.log(books)
   return (
     <div>
-      <section className='features'>
+      <section id='features'>
         <div className="container">
             <div className="row">
                 <h2 className="section__title">
